@@ -10,7 +10,11 @@ Modern UI: The frontend, built with Dash, provides a clean and responsive user i
 Backend API: The backend exposes an API that processes the data and handles file uploads.
 
 ## Technologies Used:
+
 Backend: Django, Django REST Framework, Pandas
+
 Frontend: Dash (built on Plotly), HTML/CSS
+
 Data Processing: Pandas for reading and processing CSV/JSON files
+
 Deployment: Docker (optional)
